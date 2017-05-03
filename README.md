@@ -50,7 +50,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
      <div class="w3-light-gray w3-text-grey w3-card-4">
        <div class="w3-display-container w3-opacity w3-hover-opacity-off">
-         <img src="20.jpg" style="width:100%" alt="Avatar">
+         <img src="7.png" style="width:100%" alt="Avatar">
 
        </div>
        <div class="w3-container">
@@ -129,17 +129,17 @@ and is wrapped around the whole page content, except for the footer in this exam
    <div class="w3-row-padding" style="margin-bottom:128px">
      <div class="w3-half">
        <img src="8.png" style="width:100%">
-       <img src="7.jpg" style="width:100%">
-       <img src="3.jpg" style="width:100%">
+       <img src="7.png" style="width:100%">
+       <img src="3.png" style="width:100%">
        <img src="5.png" style="width:100%">
-       <img src="1.jpg" style="width:100%">
+       <img src="1.png" style="width:100%">
      </div>
 
      <div class="w3-half">
        <img src="9.png" style="width:100%">
        <img src="2.png" style="width:100%">
        <img src="6.png" style="width:100%">
-       <img src="3.jpg" style="width:100%">
+       <img src="3.png" style="width:100%">
        
 
      </div>
